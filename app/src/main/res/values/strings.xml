@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">D204bd</string>
+
+    <string name="título_conocido">Conocido</string>
+
+    <string name="título_nuevo_conocido">Nuevo Conocido</string>
+
+    <string name="action_agregar">Agregar...</string>
+
+    <string name="action_actualizar">Actualizar</string>
+
+    <string name="action_cancelar">Cancelar</string>
+
+    <string name="action_guardar">Guardar</string>
+
+    <string name="action_eliminar">Eliminar</string>
+
+    <string name="nombre">Nombre</string>
+
+    <string name="telefono">Teléfono</string>
+
+</resources>
